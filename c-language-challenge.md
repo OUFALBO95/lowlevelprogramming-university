@@ -27,7 +27,7 @@ topics:
 
 # print "Hello world!"
 
-Use argc and argv to print "Hello world!".
+Use argc and argv to print "Hello world!!!!".
 
 ```
 $ print 3 "Hello world!"
